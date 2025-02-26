@@ -17,7 +17,7 @@ A model for detecting the maturity of tomato fruits
 #### 2. Data Preprocessing
 Modify parameters in `splitDataset.py` and run:
 ```python
-python splitDataset_mul.py
+python splitDataset.py
 ```
 
 #### 3. Modify path
